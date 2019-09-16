@@ -1,2 +1,2 @@
 # nncrexm
-R-Scripts for neighbourhood model
+R-Scripts
