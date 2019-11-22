@@ -1,0 +1,6 @@
+Plot Tag    X    Y F_Code07     Code07  GBH86 GBH96 GBH01 GBH07     col
+ MP1   1  5.0  5.0     EUPH   MALLWRAY     50  13.4   0.0    NA    "red"
+ MP1   2 15.0  5.0     MYRT   SYZYELOP    175 112.8 113.2     0 "green3"
+ MP1   3  5.0 15.0     LAUR   BEILGLAU    200  18.4   0.0    NA   "blue"
+ MP1   4 12.1 12.1     DIOT   SHORJOHO    300  18.4   0.0    NA "orange"
+ MP1   5 12.1 10.0     EUPH   MALLWRAY     50  13.4   0.0    NA    "red"
